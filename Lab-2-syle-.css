@@ -1,0 +1,64 @@
+body {
+    background-color: darkgoldenrod;
+    font-family: fantasy;
+    font-weight: 400;
+}
+
+
+.nav{
+    
+	background-color: darkgoldenrod;
+	color: darkgoldenrod;
+	list-style: none;
+	text-align: left;
+	
+}
+
+.nav > li {
+	font-size: 40px;
+	text-align: left;
+	display: inline-block;
+	
+}
+
+.nav > li > a {
+	text-decoration: none;
+	color: #000000
+}
+
+nav > li > a:hover {color: goldenrod;}
+
+.drake-pic {
+    border: solid black 5px;
+    margin: 10px;
+    width: 300px;
+    height: 200px;
+    float: right;
+}
+
+.title {
+    border-width: medium;
+    border-bottom: solid black;
+    text-align: center;
+}
+ 
+
+.song-title {
+    padding: 20px;
+}
+.drake-content {
+    text-align: center;
+}
+
+.row
+    
+
+}
+.drake-1{
+    content:wrap;
+    table-layout: auto;
+}
+.drake-link{
+    color: darkred;
+}
+a:visited { color:black; }
